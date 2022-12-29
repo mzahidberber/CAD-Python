@@ -1,0 +1,16 @@
+#Kayitlar
+*.dxf
+
+*.pyc
+.idea
+
+*__pycache__
+
+*.qrc
+
+*.ui
+*/QtDesignerUI
+
+
+*/Semboller
+
