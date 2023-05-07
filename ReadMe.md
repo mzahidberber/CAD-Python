@@ -1,13 +1,13 @@
 ## CAD Programı
 ---------------------
-Python kullanarak yazdığım çizim programında klavye ve mouse kullanarak komut verilip temel düzeyde teknik çizimler yapılabilmektedir.Yapılan bu çizimler .cpd (programın kendi kayıt formatı) ve .dxf (henüz bütün elemanlar değil) formatında kayıt edilebilmektedir.
+Python kullanarak yazdığım çizim programında klavye ve mouse kullanarak komut verilip temel düzeyde teknik çizimler yapılabilmektedir.Yapılan bu çizimler .cpd (programın kendi kayıt formatı) ve .dxf formatında kayıt edilebilmektedir.
 
 [Programın videosunu youtubeden izleyebilirsiniz.](https://youtu.be/kdz4b9l1CcQ)
 
 ![](images/1.PNG)
 
 -------------------
-###Komutlar:
+#### Komutlar:
 #### Çizim Komutları
 * __Çizgi__
   - Çizgi
